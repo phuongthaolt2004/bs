@@ -1,0 +1,11 @@
+C:\Users\Thao\Desktop\Final\QLCHBS\TransferObject\bin\Debug\TransferObject.dll
+C:\Users\Thao\Desktop\Final\QLCHBS\TransferObject\bin\Debug\TransferObject.pdb
+C:\Users\Thao\Desktop\Final\QLCHBS\TransferObject\obj\Debug\TransferObject.dll
+C:\Users\Thao\Desktop\Final\QLCHBS\TransferObject\obj\Debug\TransferObject.pdb
+C:\Users\Thao\Desktop\Final\QLCHBS\TransferObject\obj\Debug\TransferObject.csprojResolveAssemblyReference.cache
+D:\Desktop\Final\Final\QLCHBS\TransferObject\bin\Debug\TransferObject.dll
+D:\Desktop\Final\Final\QLCHBS\TransferObject\bin\Debug\TransferObject.pdb
+D:\Desktop\Final\Final\QLCHBS\TransferObject\obj\Debug\TransferObject.csproj.AssemblyReference.cache
+D:\Desktop\Final\Final\QLCHBS\TransferObject\obj\Debug\TransferObject.csproj.CoreCompileInputs.cache
+D:\Desktop\Final\Final\QLCHBS\TransferObject\obj\Debug\TransferObject.dll
+D:\Desktop\Final\Final\QLCHBS\TransferObject\obj\Debug\TransferObject.pdb
